@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470134463037",
+    "project_id": "utility-box",
+    "storage_bucket": "utility-box.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470134463037:android:9c1c3f436a46d614836854",
+        "android_client_info": {
+          "package_name": "com.example.utility_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470134463037-7k9d9ti42svb1bo9p2udbq08e4h4v8gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw8K7hjItnKS1MNAEx4MEsHrflPF_LrH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470134463037-7k9d9ti42svb1bo9p2udbq08e4h4v8gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
