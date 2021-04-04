@@ -1,9 +1,7 @@
 name: utility_box
 description: A new Flutter project.
 
-
-publish_to: 'none' 
-
+publish_to: "none"
 
 version: 1.0.0+1
 
@@ -13,9 +11,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  google_fonts: ^2.0.0
+  flutter_slidable: ^0.5.7
   math_expressions: ^2.1.0
   firebase_core: ^1.0.2
-
+  cloud_firestore: ^1.0.2
+  provider:
 
   cupertino_icons: ^1.0.2
 
@@ -23,12 +24,5 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-
-
-
 flutter:
-
-
   uses-material-design: true
-
-  
